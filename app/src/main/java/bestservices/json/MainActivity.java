@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView tv=(TextView) findViewById(R.id.txt) ;
 
-        /*
+        /* 
         {
 "name":"saeed",
 "fname":"najeeb",
